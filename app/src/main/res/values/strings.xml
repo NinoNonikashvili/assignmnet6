@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResultToMainActivity</string>
+    <string name="firstname">first name</string>
+    <string name="lastname">last name</string>
+    <string name="email">email</string>
+    <string name="birth">date of birth 00.00.0000</string>
+    <string name="gender">gender</string>
+    <string name="Update">Update</string>
+    <string name="save">Save</string>
+
+
+</resources>
