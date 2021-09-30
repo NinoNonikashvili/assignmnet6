@@ -25,7 +25,7 @@ class UpdateUserData : AppCompatActivity() {
         )
 
         var returnedData:Intent =Intent()
-        returnedData.putExtra("updatedUser", updatedUser)
+        returnedData.putExtra("updatedUser", updatedUser, )
         setResult(Activity.RESULT_OK, returnedData )
         finish()
 
